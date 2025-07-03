@@ -1,0 +1,4 @@
+relu
+selu
+tanh
+sigmoid
